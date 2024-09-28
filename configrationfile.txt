@@ -1,0 +1,9 @@
+10000000000       // lineRate
+10               // captureDurationMs
+12              //minIFGsinPacket
+010101010101   //destMacAddr
+333333333333  //srcMacAddr
+1500         //maxPacketSize
+30          // Oran.SCS
+20         //Oran.MaxNrb 
+30        //Oran.NrbPerPacket 
